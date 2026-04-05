@@ -82,11 +82,7 @@ The latest version will always be published on the Project’s GitHub page.
 
 Run the following command in your VPS terminal (supports Debian / Ubuntu / CentOS / Alpine):
 
-**Method 1：Short Link (Recommended)**
-```bash
-bash <(curl -sL suoha.ggff.net | tr -d '\r')
-```
-**Method 2：GitHub Raw Link (Backup)**
+GitHub
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/JasonV001/Argo-suoha/main/suoha.sh | tr -d '\r')
 ```
