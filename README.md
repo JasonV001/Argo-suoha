@@ -88,7 +88,7 @@ bash <(curl -sL suoha.ggff.net | tr -d '\r')
 ```
 **Method 2：GitHub Raw Link (Backup)**
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/JasonV001/Argo-suoha/main/suoha.sh](https://raw.githubusercontent.com/JasonV001/Argo-suoha/main/suoha.sh) | tr -d '\r')
+bash <(curl -sL https://raw.githubusercontent.com/JasonV001/Argo-suoha/main/suoha.sh | tr -d '\r')
 ```
 **📌Select mode based on the menu**
 
