@@ -76,11 +76,7 @@
 
 在您的 VPS 终端中执行以下命令即可（支持 Debian / Ubuntu / CentOS / Alpine）：
 
-**方式一：短链接（推荐）**
-```bash
-bash <(curl -sL suoha.ggff.net | tr -d '\r')
-```
-**方式二：GitHub 原始链接（备用）**
+GitHub 链接
 ```bash
 bash <(curl -sL https://raw.githubusercontent.com/JasonV001/Argo-suoha/main/suoha.sh | tr -d '\r')
 ```
